@@ -98,7 +98,7 @@ if st.session_state.slide_count == 0:
     st.subheader("5 Reasons Why I Love Maria")
     st.write("By: Abubakar Ahmed")
     st.write("---")
-    st.write("Click below to start our journey through the last two months.")
+    st.write("Wanted to make a little gift for you for our two months, thank you for being you!")
     st.button("Start the Journey", on_click=next_slide)
 
 # Reason 1: Kind [cite: 3-6]
