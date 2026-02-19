@@ -133,7 +133,7 @@ elif st.session_state.slide_count == 4:
     st.header("Reason 4: You’re Funny")
     st.image("nagifunny.png")
     st.markdown(
-        '<div class="reason-card">You make me laugh a lot, always making me feel better. Idk what I’d do without your humor and kindness—you’re awesome and you make me laugh.</div>',
+        '<div class="reason-card">You make me laugh a lot, always making me feel better. Idk what I’d do without your humor and kindness! You’re awesome and you make me laugh.</div>',
         unsafe_allow_html=True)
     st.button("Next Reason →", on_click=next_slide)
 
